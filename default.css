@@ -467,7 +467,7 @@ header .appnav { padding-top: 0; padding-bottom: 4px; min-height: 0px; }
 
 header .search { float: right; padding: 14px 0; margin-left: 20px; }
 
-header .pages { padding: 0; margin: 14px 0 16px -15px; }
+header .pages { padding: 0; margin: 60px 10px 0 10px !important; }
 header .pages li { display: inline-block; list-style: none; margin-right: 10px; margin-left: 10px; }
 header .pages li a { display: block; color: #fff; text-transform: uppercase; padding: 5px 7px; margin-right: 0px; font-size: 1.1em; font-weight: bold; }
 header .pages li a:hover { color: #ffa !important; }
